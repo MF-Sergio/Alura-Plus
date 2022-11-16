@@ -1,4 +1,4 @@
-<h1>Atividade Página Alura Plus</h1>
+<h1>Alura Plus</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=VSCode&message=1.72.0&color=blue&style=for-the-badge"/>
