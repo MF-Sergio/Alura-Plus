@@ -15,8 +15,6 @@
 
 :small_blue_diamond: [Aprendizados](#aprendizados)
 
-:small_blue_diamond: [Deploy da Página](#deploy-da-página-dash)
-
 :small_blue_diamond: [Créditos](#linguagens-utilizadas-books)
 
 <br>
@@ -93,12 +91,6 @@
 - Editar código no VSCode Web;
 - Enviar alterações para o repositório já existente.
 </details>
-
-<br>
-
-## Deploy da página :dash:
-
-> https://mf-sergio.github.io/Atividade-Pagina-Alura-Plus/
   
 <br>
 
