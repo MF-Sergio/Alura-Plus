@@ -15,6 +15,8 @@
 
 :small_blue_diamond: [Aprendizados](#aprendizados)
 
+:small_blue_diamond: [Deploy da Página](#deploy-da-página-dash)
+
 :small_blue_diamond: [Créditos](#linguagens-utilizadas-books)
 
 <br>
@@ -92,6 +94,12 @@
 - Enviar alterações para o repositório já existente.
 </details>
   
+<br>
+
+## Deploy da página :dash:
+
+> https://alura-plus-iota-bice.vercel.app
+
 <br>
 
 ## Linguagens utilizadas :books:
